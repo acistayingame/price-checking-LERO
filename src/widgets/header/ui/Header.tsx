@@ -16,7 +16,7 @@ export const Header: FC = () => {
                     <div className={styles.header__logo}>
                         <a href="https://lero-group.ru/" className={styles.header__logo_link}>
                             <svg className={styles.header__logo_img} width="1" height="1"
-                                 viewBox="0 0 226 35"
+                                 viewBox="0 0 1 1"
                                  fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
                                 <path
