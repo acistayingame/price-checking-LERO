@@ -47,10 +47,10 @@ export default function Home() {
                         <div className={styles.into__wrapper}>
                             <div className={styles.content}>
                                 <h1 className={styles.into__title}>
-                                    Подпишись на изменение цены
+                                    Отслеживание цены еще никогда не было таким лёгким
                                 </h1>
                                 <div className={styles.into__subtitle}>
-                                    Telegram бот пришлет уведомление
+                                    Введи и следи!
                                 </div>
                             </div>
                             <Image className={styles.intro__phone}
