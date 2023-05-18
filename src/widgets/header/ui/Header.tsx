@@ -6,7 +6,7 @@ export const Header: FC = () => {
     return <div>
         <Head>
             <title>Wildberries Notice</title>
-            <meta name="description" content="Получай уведомления в телеграм о изменении цены на Wildberries"/>
+            <meta name="description" content="Получай уведомления о изменении цены на Wildberries"/>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             <link rel="icon" href="/favicon.ico"/>
         </Head>
@@ -14,7 +14,7 @@ export const Header: FC = () => {
             <div className={styles.wrapper}>
                 <div className={styles.header__wrapper}>
                     <div className={styles.header__logo}>
-                        <a href="https://devandreyit.ru/" className={styles.header__logo_link}>
+                        <a href="https://lero-group.ru/" className={styles.header__logo_link}>
                             <svg className={styles.header__logo_img} width="226" height="35"
                                  viewBox="0 0 226 35"
                                  fill="none"
